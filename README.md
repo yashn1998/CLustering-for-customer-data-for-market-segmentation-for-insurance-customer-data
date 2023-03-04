@@ -7,7 +7,7 @@ This case requires to develop a customer segmentation to give recommendations li
 The sample Dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables.
 
 ### Algorithms used :  
-In this dataset i've used five clustering algorithm to perform segmentation.These algorithms are given below.
+In this dataset i've used five clustering algorithm to perform segmentation and got better accuracy with kmeans clustering .These algorithms are given below.
 - [K-Means Clustering](https://en.wikipedia.org/wiki/K-means_clustering)
 - [Agglomerative Clustering](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html)
 - [Spectral Clustering](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.SpectralClustering.html)
